@@ -89,10 +89,26 @@ From the excerpt above, the company has one thousand four hundred and seventy st
 ### 2. Attrition by gender
 ![Attrition by gender](https://github.com/Timothygbenga/HR-Analytics-Dashboard/assets/154624761/88bd901c-1667-48e8-8a63-b40fe1e6efc8)
 
-The attrition age eaasy to understand.the female employee reduce by 87 while the male employee reduces by 150.
+The attrition age is easy to understand.the female employee reduced by 87 while the male employee reduced by 150.
 
 ### 3. Department wise Attrition
 ![department wise attrition](https://github.com/Timothygbenga/HR-Analytics-Dashboard/assets/154624761/8e2b8a07-151b-4080-9cbe-67d837dd4d8a)
+The pie chart shows the three major department with highest attrition. Sales recorded thirty eight point eight two while Human resources department recorded five point zero eight percent. Research and development recorded the highest with fivety six point twelve.
+
+
+### 4. Number of employees by age group
+
+The x-axis of the bar chart above represents age the bracket of employees while the y-axis represents the number of employees (i.e employee count).The highest age bracket of the staff is between thirty one to thirty three with two hundred and thirty employees while the lowest is between age fivety eight to sixty with five employees. Findings revealed that the higher the age bracket the lower the number of employee. Also, large number of employees falls between age thirty one to thirty three.
+
+### 5. Job Satisfaction rating
+
+Job role follows the horizontal order while job Satisfaction follows the vertical axis with total at the end of the each axis.
+Job Satisfaction starts from one to four. The higher the number, the higher the satisfaction. One hundred and twelve Sales executives was rated four ⭐⭐⭐⭐ while  Human resources recorded the least with three Star ⭐⭐⭐.
+
+### 6 Education field wise attrition. 
+This report shows the attitude of employees to training, seminar, and workshop orgaized for staff. Attendance was taken and the report revealed that staff eighty nine employees absconded and uninterested in life sciences courses or training while human resources has the least with 7 employees.
+
+### 7. Attrition rate by gender for different age group.
 
 
 
