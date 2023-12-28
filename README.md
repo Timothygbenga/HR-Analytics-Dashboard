@@ -166,16 +166,16 @@ In order to improve staff performanance and productivity, there should a routing
   
 - Danger of inconsistency in a work place
 
-- Leedership
+- Leadership
 
 If this recommendation is considered, it will reduce the attrition rate and improve employee satisfaction rating. Employees will be energize to wwork and deliver without fear of job insecurity. 
 
-### Gender consideration: 
+**Gender consideration:** 
 
 As earlier reavealed in our dashboard, female gender has the highest attrition rate by age group and the male has the highest by gender attrition. This suggests to us that employees are leaving the company at their productive age which may not be good for the company. Hence the company should employ more productive female gender between age eighteen to thirty **(18-30)** to replace the ones that left.
 
 
-### Adequate monitoring and supervision:
+**Adequate monitoring and supervision:**
 
 Managers are expected to lead by example but unfortunately this is not true in the job satisfaction dashboard, thirty three **(33)**  out of one hundred and two **(102)** managers were rated four star ⭐⭐⭐⭐. This is not up to one third of the managers in total. The managers and the supervisors are not monitoring the employees.
 
@@ -195,7 +195,7 @@ In addition to above, there should also be a reward sytem to encourage the best 
 This recommendation will drive sales, increase client database and profit of the company. 
 
 
-### References
+ **References**
 ---
 
 click [here](https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit#gid=2089618187)
