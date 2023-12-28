@@ -1,25 +1,26 @@
 # HR ANALYSIS DASHBOARD
 ---
 
-## Table of Contents
+## Table of Content
 
-*Project Overview*
+- [*Project Overview*](#project-overview)
 
-*Data Sources*
+- [*Data Sources*](#data-sources)
 
-*Tools Used*
+- [*Tools Used*](#tools-used)
 
-*Data Cleaning and Preparation*
+- [*Data Cleaning and Preparation*](#data-cleaning-and-preparation)
 
-*Exploratory Data Analysis*
+- [*Exploratory Data Analysis*](#exploratory-data-analysis)
 
-*Results and Findings*
+- [*Results and Findings*](#results-and-findings)
 
-*Recommendations*
+- [*Recommendations*](#recommendations)
 
-*References*
+- [*References*](#references)
 
 ### Project Overview
+---
 
 This project was aimed to present a coherent, wholistic and a detailed view of the basic Human resources dashboard which covers the following: 
 
@@ -46,9 +47,13 @@ The dashboard below answer the questions in this project which has been discusse
 
 
 ### Data Sources
-click [here](https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit#gid=2089618187) to access the data.
+---
+
+Click [here](https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit#gid=2089618187) to access the data.
+
 
 ### Tools Used
+---
 
 The following tools were used in the course of this project:
 
@@ -61,9 +66,13 @@ The following tools were used in the course of this project:
 -Tableau: A lot of calculated fields was created and a "level of detail expressions" in order to prepare the dashboard.
 
 ### Data Cleaning and preparation 
+---
+
 Data cleaning was done in removing outliers and some irrelevant data which may affect our findings.
 
 ### Exploratory Data Analysis
+---
+
 This project analysis intends to profer answers to the inqueries below and as well recommend actionable step for company growth:
 
 - Show the KPI of all employees with respect their employee count, attrition count, attrition rate, active employee and average age
@@ -81,6 +90,7 @@ This project analysis intends to profer answers to the inqueries below and as we
 - Attrition rate by gender for different age group.
   
 ### Results and Findings
+---
 
 ### 1. KPI of all employees
 
@@ -130,6 +140,62 @@ The donor circle is seperated by gender with total at the center. Female gender 
 
 
 ### Recommendations
+---
+
+**Employee traning:**
 
 
-*References*
+The results of our finding has revealed that HR department is not efficient in the discharge of their duties and this has affected the entire workforce because they have the lowest rating, high attrition rate by department and poor parameters for educating staff.
+
+
+In order to improve staff performanance and productivity, there should a routing "on the job" training for HR personal and actionable steps must be taken to drive staff sensization. This research work suggests training should be done in the following areas:
+
+- Employee contributions in organizational growth
+  
+- Relationship between job satisfaction and company's profitablity
+
+  
+- Challenges of companies and the role of employee
+
+  
+- Employee relationship and work ethics
+
+  
+- Diligent and hardwork in a wwork place
+
+  
+- Danger of inconsistency in a work place
+
+- Leedership
+
+If this recommendation is considered, it will reduce the attrition rate and improve employee satisfaction rating. Employees will be energize to wwork and deliver without fear of job insecurity. 
+
+### Gender consideration: 
+
+As earlier reavealed in our dashboard, female gender has the highest attrition rate by age group and the male has the highest by gender attrition. This suggests to us that employees are leaving the company at their productive age which may not be good for the company. Hence the company should employ more productive female gender between age eighteen to thirty **(18-30)** to replace the ones that left.
+
+
+### Adequate monitoring and supervision:
+
+Managers are expected to lead by example but unfortunately this is not true in the job satisfaction dashboard, thirty three **(33)**  out of one hundred and two **(102)** managers were rated four star ⭐⭐⭐⭐. This is not up to one third of the managers in total. The managers and the supervisors are not monitoring the employees.
+
+However, this project wwork suggests that their should be an "online realtime" performance review and this should involve the following paramaters, using sales manager as case study:
+
+-Number of customers reached
+
+-Number of customers visited and calls
+
+-Number of customer acquired with respect to weekly and monthly target
+
+-Weekly and monthly performance report
+
+In addition to above, there should also be a reward sytem to encourage the best sales representatives.
+
+
+This recommendation will drive sales, increase client database and profit of the company. 
+
+
+### References
+---
+
+click [here](https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit#gid=2089618187)
